@@ -30,6 +30,8 @@ various attributes of the insured and how they affect the insurance premium.
 
 ## Tech Stack
 
+For my project, I have chosen the following stack:
+
 - [Pandas](https://pandas.pydata.org/pandas-docs/stable/)
 - [Plotly](https://plotly.com/)
 - [Matplotlib]()
