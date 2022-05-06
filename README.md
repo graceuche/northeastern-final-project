@@ -34,4 +34,4 @@ For my project, I have chosen the following stack:
 
 - [Pandas](https://pandas.pydata.org/pandas-docs/stable/)
 - [Plotly](https://plotly.com/)
-- [Matplotlib]()
+- [Matplotlib](https://matplotlib.org/)
