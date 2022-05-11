@@ -40,7 +40,7 @@ For my project, I have chosen the following stack:
 
 ### Style Guides for Seaborn Visualizations
 
-All Seaborn Visualizations should have titles in titlecase, e.g.,:
+All [Seaborn](https://seaborn.pydata.org/) visualizations should have titles in titlecase, e.g.,:
 
 ```
 g = sns.catplot(x='region', y='charges',
