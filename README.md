@@ -35,3 +35,18 @@ For my project, I have chosen the following stack:
 - [Pandas](https://pandas.pydata.org/pandas-docs/stable/)
 - [Plotly](https://plotly.com/)
 - [Matplotlib](https://matplotlib.org/)
+
+## Style Guides
+
+### Style Guides for Seaborn Visualizations
+
+All Seaborn Visualizations should have titles in titlecase, e.g.,:
+
+```
+g = sns.catplot(x='region', y='charges',
+            data=insurance_premium,
+            hue='sex',
+            kind='point')
+g.fig.suptitle('Charges vs. Region', y=1.1) 
+plt.show()
+```
