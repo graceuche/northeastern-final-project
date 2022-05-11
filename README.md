@@ -38,7 +38,7 @@ For my project, I have chosen the following stack:
 
 ## Style Guides
 
-### Style Guides for Seaborn Visualizations
+### Style Guides for [Seaborn](https://seaborn.pydata.org/) Visualizations
 
 All [Seaborn](https://seaborn.pydata.org/) visualizations should have titles in titlecase, e.g.,:
 
