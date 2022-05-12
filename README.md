@@ -50,3 +50,13 @@ g = sns.catplot(x='region', y='charges',
 g.fig.suptitle('Charges vs. Region', y=1.1) 
 plt.show()
 ```
+
+## Team and Processes
+
+### Team
+
+### Processes
+
+The basic Kanban board from GitHub Projects was used for Project Management:
+
+![Screenshot of the board](Grace-board.png)
