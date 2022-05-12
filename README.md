@@ -55,6 +55,12 @@ plt.show()
 
 ### Team
 
+|Name|Github|LinkedIn|
+| :------: | :----------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
+|  Katia - **Team Lead**   | [![GitHub icon](https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-16.png)](https://github.com/missKatiaPunter)|[![Linkedin](https://www.linkedin.com/favicon.ico)](https://www.linkedin.com/in/katia-punter-6313ba177/)
+|  Grace - **Data Analyst**  | [![GitHub icon](https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-16.png)](https://github.com/graceuche) | [![Linkedin](https://www.linkedin.com/favicon.ico)](https://www.linkedin.com/in/grace-uche-mba-rhia-epic-credential-trainer-677022152/)|
+
+
 ### Processes
 
 The basic Kanban board from GitHub Projects was used for Project Management 👇🏼
