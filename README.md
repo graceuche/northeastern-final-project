@@ -1,5 +1,7 @@
 # The Final Project for Northeaster University Accelerated Data Analytics Professional Certification Program
 
+[Link to a Deepnote](https://deepnote.com/project/Final-Course-Project-04eeb7cc-c014-42cc-9688-959f70fd96bb/%2Fvisual_analysis.ipynb)
+
 ## Project Requirements
 
 To complete the Data Analytics course at [Norheastern Univeristy](https://www.northeastern.edu/) I had to produce the final project to fulfill the following criteria:
@@ -28,7 +30,7 @@ To complete the Data Analytics course at [Norheastern Univeristy](https://www.no
 To understand the risk in underwriting Health Insurance and how it affects
 various attributes of the insured and how they affect the insurance premium.
 
-## Data Sets
+## Data Set
 
 For this analysis, I have used a simulated dataset. I have found it on [Kaggle](https://www.kaggle.com/). I was looking for a beginner dataset as my experience using Python and Pandas was exactly 12 weeks, however, I also really wanted to explore healthcare or/and health insurance data.
 
