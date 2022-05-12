@@ -57,6 +57,6 @@ plt.show()
 
 ### Processes
 
-The basic Kanban board from GitHub Projects was used for Project Management:
+The basic Kanban board from GitHub Projects was used for Project Management 👇🏼
 
 ![Screenshot of the board](Grace-board.png)
