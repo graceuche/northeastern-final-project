@@ -28,6 +28,17 @@ To complete the Data Analytics course at [Norheastern Univeristy](https://www.no
 To understand the risk in underwriting Health Insurance and how it affects
 various attributes of the insured and how they affect the insurance premium.
 
+## Data Sets
+
+For this analysis, I have used a simulated dataset. I have found it on [Kaggle](https://www.kaggle.com/). I was looking for a beginner dataset as my experience using Python and Pandas was exactly 12 weeks, however, I also really wanted to explore healthcare or/and health insurance data.
+
+When I came across [this dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance) it was clear from the discussion on Kaggle where it came from.
+
+It was synthesized using demographic statistics from [the U.S. Census Bureau](https://www.census.gov/). Therefore, it approximately reflects the real-world conditions but the data is not for real people, hence I could use it without worrying about privacy issues.
+These data were created for a book, “Machine learning with R” by Brett Lantz, available at [Northeastern Library](https://library.northeastern.edu/). Reading the relevant chapters in the book helped me get a better idea on how medical costs are predicted.
+
+To sum up, the data set I am using is synthetic but realistic, thus I could get a good idea of the statistical metrics in the American healthcare system and yet not risk violating any privacy laws.
+
 ## Tech Stack
 
 For my project, I have chosen the following stack:
