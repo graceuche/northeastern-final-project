@@ -27,8 +27,22 @@ To complete the Data Analytics course at [Norheastern Univeristy](https://www.no
 
 ## Rationale 
 
-To understand the risk in underwriting Health Insurance and how it affects
-various attributes of the insured and how they affect the insurance premium.
+### Overall Rationale
+
+Healthcare insurance plan in the United States is an agreement between an insurer and an insured. In exchange for premium pay­ments, the insurer agrees to cover certain medical services that are specified in the plan. Sounds simple and good, but not quite. 
+Medical expenses are difficult to estimate due to individual circumstances and any existing comorbidities. As a result, the diagnosis, treatment, and recovery  of certain conditions on patient A will differ from patient B with similar diagnosis.
+For example, patient A might have comorbidities that could affect the treatment, resulting in longer hospital stay and resources. On the other hand, patient B may respond to treatment and get discharged within the normal hospital stay.
+Also,  some conditions are more prevalent for certain segments of the population. For instance, lung cancer is more likely among smokers than non-smokers. Heart disease is more likely among overweight individuals. As a result, insurance companies are more likely to pay more towards such individuals' medical care.
+
+The main reason for choosing this dataset is because it comprises of some major factors that drive healthcare insurance cost in the United States, namely, age, sex, and comorbidities. Region on the hand would be a factor  depending on type of insurance -government funded or private. The columns of this  dataset help to investigate and understand the risk of underwriting in Health Insurance, the interplay of various attributes of the insured, and see how they affect the insurance premium.
+ 
+In order for an insurance company to make money, it needs to collect more in yearly premiums than it spends on medical care for its beneficiaries. As a result, insurers invest a great deal of time and money to develop models that accurately forecast medical expenses. There have been many attempts to build a reliable machine learning algorithm to predict health insurance charges. However, none of the existing algorithms are fine-tuned to perfection yet. This project will compare two approaches to predicting healthcare charges. 
+(decide which algorithms to compare)
+
+### Personal Rationale
+
+(add my biography)(add that I would focus on descriptive statistics in depth as a beginner)
+(add that I would include lots of data visualization as that is my favorite part of data analytics)
 
 ## Data Set
 
