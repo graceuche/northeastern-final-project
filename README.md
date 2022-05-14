@@ -47,7 +47,7 @@ The  quest for knowledge drove me into Health and Life Insurance because I wante
 
 As an educator, I have successfully taught courses in Data Management. However, as a coder I was an absolute beginner 12 weeks ago. Therefore, I was set to produce a final project with an extensive Exploratory Data Analysis section which should allow me to practice and to demonstrate  my newly acquired Python skills.
 
-The fact that healthcare is data driven led me towards Data Analytics, and the idea is to help add more value to my existing knowledge in both healthcare and business. I also must mention that a Data Analytics certificate would enable me to gain meaningful employment with a company that would utilize my wealth of experiences and knowledge to grow their company.  
+During the 12 weeks of the Data Analytics Career Accelerator course I developed passion for Data Visualization, so another on of my personal goals was to explore various Data Visualization libraries in Python and assess their suitability for various stages of Exploratory Data Analysis.
 
 As always, time flies when you are having fun! I cannot believe that I am working on my final project and presentation in less than a week. It feels like the course just started yesterday! But, it is all good because I have learned so much about datasets, data exploration, visualization (my favorite part), and predictions. 
 
