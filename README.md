@@ -49,7 +49,11 @@ As an educator, I have successfully taught courses in Data Management. However, 
 
 During the 12 weeks of the Data Analytics Career Accelerator course I developed passion for Data Visualization, so another on of my personal goals was to explore various Data Visualization libraries in Python and assess their suitability for various stages of Exploratory Data Analysis.
 
-As always, time flies when you are having fun! I cannot believe that I am working on my final project and presentation in less than a week. It feels like the course just started yesterday! But, it is all good because I have learned so much about datasets, data exploration, visualization (my favorite part), and predictions. 
+To sum up, I set to myself the following personal goals:
+- gain personal knowledge about the health insurability of the American population by exploring a representative sample of the USA population
+- visualize a representative sample of the USA population by factors that determine health insurance charges
+- explore summative statistics of the representative sample of the USA population by factors that determine health insurance charges
+- compare some machine learning algorithms that allow predicting health insurance charges
 
 I wanted to gain more knowledge and experiences in the health insurance sector that could transfer into various roles..
 
