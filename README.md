@@ -43,7 +43,7 @@ In order for an insurance company to make money, it needs to collect more in yea
 
 My name is Grace Uche. I am a Professional Registered Health Information Administrator with a Master Degree in Business Administration. I am also a Licensed Health and Life Insurance Broker. As a Health Information Management professional, for over 15 years, I have had the opportunity to practice and work in different healthcare settings. Most of my work has been in educating and training  students in both Associates and Bachelors degrees in the Health Information Management programs. I help students to successfully complete the program, sit and pass the national certification exams, and obtain a job in the field.
 
-The  quest for knowledge drove me into Health and Life Insurance because I wanted to understand how insurance company carriers operate, factors that determine insured insurability and coverage suitability, as well as to understand those situations that might deter individuals from not being able to get coverage.
+The  quest for knowledge drove me into Health and Life Insurance because I wanted to understand how insurance companies operate, factors that determine insurability and coverage suitability. Furthermore, I wanted to explore situations that might deter individuals from getting coverage.
 
 As an educator, I have successfully taught courses in Data Management which encompases data collection, storage, retrieval, aggregation, and interpretation, but not as far as using machine learning and models to write codes and to predict desirable outcomes.
 
