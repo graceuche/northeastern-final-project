@@ -51,7 +51,7 @@ During the 12 weeks of the Data Analytics Career Accelerator course I developed 
 
 As always, time flies when you are having fun! I cannot believe that I am working on my final project and presentation in less than a week. It feels like the course just started yesterday! But, it is all good because I have learned so much about datasets, data exploration, visualization (my favorite part), and predictions. 
 
-Regardless of which company or field I ended up working with today, one thing is certain, and that is, I would use my wealth of knowledge and experiences to the best of my ability to add value to the company.
+I wanted to gain more knowledge and experiences in the health insurance sector that could transfer into various roles..
 
 
 
