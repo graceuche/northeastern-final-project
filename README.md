@@ -41,8 +41,19 @@ In order for an insurance company to make money, it needs to collect more in yea
 
 ### Personal Rationale
 
-(add my biography)(add that I would focus on descriptive statistics in depth as a beginner)
-(add that I would include lots of data visualization as that is my favorite part of data analytics)
+My name is Grace Uche. I am a Professional Registered Health Information Administrator with a Master Degree in Business Administration. I’m also a Licensed Health and Life Insurance Broker. As a Health Information Management professional, for over 15 years, I have had the opportunity to practice and work in different healthcare settings. Most of my work has been in educating and training  students in both Associates and Bachelors degrees in the Health Information Management programs to successfully complete the program, sit and pass any of the national certificate exams, and be able to obtain a meaningful job in the field.
+
+The  quest for knowledge drove me into Health and Life Insurance because I wanted to understand how insurance company carriers operate, factors that determine insured insurability and coverage suitability, as well as to understand those situations that might deter individuals from not being able to get coverage.
+
+As an educator, I have successfully taught courses in Data Management which encompases data collection, storage, retrieval, aggregation, and interpretation, but not as far as using machine learning and models to write codes and to predict desirable outcomes.
+
+The fact that healthcare is data driven led me towards Data Analytics, and the idea is to help add more value to my existing knowledge in both healthcare and business. I also must mention that a Data Analytics certificate would enable me to gain meaningful employment with a company that would utilize my wealth of experiences and knowledge to grow their company.  
+
+As always, time flies when you are having fun! I cannot believe that I am working on my final project and presentation in less than a week. It feels like the course just started yesterday! But, it is all good because I have learned so much about datasets, data exploration, visualization (my favorite part), and predictions. 
+
+Regardless of which company or field I ended up working with today, one thing is certain, and that is, I would use my wealth of knowledge and experiences to the best of my ability to add value to the company.
+
+
 
 ## Data Set
 
