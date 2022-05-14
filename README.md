@@ -45,7 +45,7 @@ My name is Grace Uche. I am a Professional Registered Health Information Adminis
 
 The  quest for knowledge drove me into Health and Life Insurance because I wanted to understand how insurance companies operate, factors that determine insurability and coverage suitability. Furthermore, I wanted to explore situations that might deter individuals from getting coverage.
 
-As an educator, I have successfully taught courses in Data Management which encompases data collection, storage, retrieval, aggregation, and interpretation, but not as far as using machine learning and models to write codes and to predict desirable outcomes.
+As an educator, I have successfully taught courses in Data Management. However, as a coder I was an absolute beginner 12 weeks ago. Therefore, I was set to produce a final project with an extensive Exploratory Data Analysis section which should allow me to practice and to demonstrate  my newly acquired Python skills.
 
 The fact that healthcare is data driven led me towards Data Analytics, and the idea is to help add more value to my existing knowledge in both healthcare and business. I also must mention that a Data Analytics certificate would enable me to gain meaningful employment with a company that would utilize my wealth of experiences and knowledge to grow their company.  
 
