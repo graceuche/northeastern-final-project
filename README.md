@@ -41,8 +41,23 @@ In order for an insurance company to make money, it needs to collect more in yea
 
 ### Personal Rationale
 
-(add my biography)(add that I would focus on descriptive statistics in depth as a beginner)
-(add that I would include lots of data visualization as that is my favorite part of data analytics)
+My name is Grace Uche. I am a Professional Registered Health Information Administrator with a Master Degree in Business Administration. I am also a Licensed Health and Life Insurance Broker. As a Health Information Management professional, for over 15 years, I have had the opportunity to practice and work in different healthcare settings. Most of my work has been in educating and training  students in both Associates and Bachelors degrees in the Health Information Management programs. I help students to successfully complete the program, sit and pass the national certification exams, and obtain a job in the field.
+
+The  quest for knowledge drove me into Health and Life Insurance because I wanted to understand how insurance companies operate, factors that determine insurability and coverage suitability. Furthermore, I wanted to explore situations that might deter individuals from getting coverage.
+
+As an educator, I have successfully taught courses in Data Management. However, as a coder I was an absolute beginner 12 weeks ago. Therefore, I was set to produce a final project with an extensive Exploratory Data Analysis section which should allow me to practice and to demonstrate  my newly acquired Python skills.
+
+During the 12 weeks of the Data Analytics Career Accelerator course I developed passion for Data Visualization, so another on of my personal goals was to explore various Data Visualization libraries in Python and assess their suitability for various stages of Exploratory Data Analysis.
+
+To sum up, I set to myself the following personal goals:
+- gain personal knowledge about the health insurability of the American population by exploring a representative sample of the USA population
+- visualize a representative sample of the USA population by factors that determine health insurance charges
+- explore summative statistics of the representative sample of the USA population by factors that determine health insurance charges
+- compare some machine learning algorithms that allow predicting health insurance charges
+
+I wanted to gain more knowledge and experiences in the health insurance sector that could transfer into various roles..
+
+
 
 ## Data Set
 
