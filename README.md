@@ -78,21 +78,6 @@ For my project, I have chosen the following stack:
 - [Plotly](https://plotly.com/)
 - [Matplotlib](https://matplotlib.org/)
 
-## Style Guides
-
-### Style Guides for [Seaborn](https://seaborn.pydata.org/) Visualizations
-
-All [Seaborn](https://seaborn.pydata.org/) visualizations should have titles in titlecase, e.g.,:
-
-```
-g = sns.catplot(x='region', y='charges',
-            data=insurance_premium,
-            hue='sex',
-            kind='point')
-g.fig.suptitle('Charges vs. Region', y=1.1) 
-plt.show()
-```
-
 ## Team and Processes
 
 ### Team
